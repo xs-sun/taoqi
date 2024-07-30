@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "淘七"
+  name: "淘七1"
   text: "记录日常问题以及解决方案"
   tagline: My great project tagline
   actions:
