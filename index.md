@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "淘七的空间"
-  text: "A VitePress Site"
+  name: "淘七"
+  text: "记录日常问题以及解决方案"
   tagline: My great project tagline
   actions:
     - theme: brand
