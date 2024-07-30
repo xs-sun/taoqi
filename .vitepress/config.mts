@@ -14,6 +14,10 @@ export default defineConfig({
         hourCycle: 'h24'
       }
     },
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
