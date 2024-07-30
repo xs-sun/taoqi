@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "淘七",
   description: "记录日常问题以及解决方案",
+  base: '/taoqi/',
   themeConfig: {
     lastUpdated: {
       text: '最后更新于',
